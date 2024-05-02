@@ -1,1 +1,2 @@
 #コメント
+print('message')
