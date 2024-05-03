@@ -6,4 +6,3 @@ def pow(a,b):
     return res
 
 print(str(pow(9,10)+pow(10,9)))
-jfldajskgjejaf
