@@ -4,3 +4,5 @@ def pow(a,b):
     for i in range(b):
         res*=a
     return res
+
+print(str(pow(9,10)+pow(10,9)))
